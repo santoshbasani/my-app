@@ -10,9 +10,6 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <version>1.0</version>  
   <packaging>war</packaging>  
   
-  <name>Maven Quick Start Archetype</name>  
-  <url>http://maven.apache.org</url>  
-  
   <dependencies>  
     <dependency>  
       <groupId>junit</groupId>  
